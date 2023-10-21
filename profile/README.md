@@ -2,7 +2,7 @@
   <img width="400px" src="https://media.discordapp.net/attachments/1160596998307717231/1160597050270949426/JINXwhite.png?ex=653e77bb&is=652c02bb&hm=3e3687d468ade16540cf39bf0e88cccf2f5d249557b6e5f8850ebad9939897d6&=&width=671&height=671" alt="Jinx Technologies Logo">
 </p>
 <p align="center">
-  #Jinx Technologies
+  <p align="center" style="font-size: 40px">Jinx Technologies</p>
   Creating software for your servers.
 </p>
 
