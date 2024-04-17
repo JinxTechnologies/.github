@@ -7,14 +7,9 @@
 
 <h2 align="left">What we're working on?</h2>
 
-<h3 align="left">Jinx Anticrash</h3>
+<h3 align="left">Auto</h3>
 <p align="left">
-  Our advanced anticrash system designed with ease of use in mind.
-</p>
-
-<h3 align="left">Jinx Licensing</h3>
-<p align="left">
-  A simple yet feature-rich licensing system for all of your projects.
+  Auto is our solution for Discord moderation and Server Management. Auto is currently in beta.
 </p>
 
 <h2 align="left">Contact</h2>
